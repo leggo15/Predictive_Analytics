@@ -1,0 +1,4 @@
+variable,aic,p_value,d_value,q_value,P_value,D_value,Q_value,s_value
+CO(GT),5361.782419688838,2,0,3,3,0,1,24
+NO2(GT),3154.686613263607,2,0,3,3,0,1,24
+RH,49.14150906123044,3,1,3,1,0,1,24
